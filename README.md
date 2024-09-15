@@ -13,7 +13,14 @@
         <br>This is the greenhouse building configurator app for sell building.
         Developed using the Threejs, HTML, CSS, TypeScript, Redux.</p>
     </div>
-    <a style="width:60%"><img  src="./images/greenspanbuilding.JPG"></img></a>
+    <a href="https://greenspanbuildings.com.au/" target="_blank" style="width:170%"><img src="./images/greenspanbuilding.JPG"></img></a>
+</div>
+<div style="display:flex">
+    <div>
+        <h3>Greenspanbuildings</h3>
+        <p>Developed the Blacktown Markets website, featuring an easy-to-navigate platform for local vendors and events. The site highlights market offerings and fosters community engagement. Proud to support a thriving local marketplace.</p>
+    </div>
+    <a href="https://blacktownmarkets.com.au/" target="_blank" style="width:310%"><img src="./images/market.JPG"></img></a>
 </div>
 
 <h2 align="left">Languages and Tools:</h2>
