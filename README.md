@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Apo</h1>
 <h3 align="center">WebGL and Fullstack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
