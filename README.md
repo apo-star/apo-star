@@ -59,72 +59,112 @@
             </div>
         </td>
     </tr>
-    <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="./images/icons/php-15.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">PHP</p>
-    </div>
-    <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="./images/icons/laravel-icon-995x1024-dk77ahh4.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Laravel</p>
-    </div>
-    <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="./images/icons/1175246.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Codeigniter</p>
-    </div>
-    <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="./images/icons/wordpress-logo-wordpress-icon-transparent-free-png.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">WordPress</p>
-    </div>
-    <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">React</p>
-    </div>
-    <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="./images/icons/4695757.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">React Native</p>
-    </div>
-    <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="./images/icons/icons8-vuejs-240.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Vue</p>
-    </div>
-    <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="./images/icons/icons8-angularjs-100.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Angular</p>
-    </div>
-    <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="./images/icons/icons8-next.js-240.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Nextjs</p>
-    </div>
-    <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="./images/icons/icons8-vite-240.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Vite</p>
-    </div>
-    <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Nodejs</p>
-    </div>
-    <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="./images/icons/icons8-opencv-240.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">OpenCV</p>
-    </div>
-    <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="./images/icons/icons8-unity-240.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Unity</p>
-    </div>
-    <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="./images/icons/icons8-blender-3d-240.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Blender</p>
-    </div>
-    <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Django</p>
-    </div>
-    <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">MySQL</p>
-    </div>
-    <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">AWS</p>
-    </div>
+    <tr style="width: 100%;">
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="./images/icons/php-15.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">PHP</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="./images/icons/laravel-icon-995x1024-dk77ahh4.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Laravel</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="./images/icons/1175246.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Codeigniter</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="./images/icons/wordpress-logo-wordpress-icon-transparent-free-png.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">WordPress</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="https://techstack-generator.vercel.app/react-icon.svg" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">React</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="./images/icons/4695757.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">React Native</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="./images/icons/icons8-vuejs-240.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Vue</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="./images/icons/icons8-angularjs-100.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Angular</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="./images/icons/icons8-next.js-240.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Nextjs</p>
+            </div>
+        </td>
+    </tr>
+    <tr style="width: 100%;">
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="./images/icons/icons8-vite-240.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Vite</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="https://techstack-generator.vercel.app/nginx-icon.svg" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Nodejs</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="./images/icons/icons8-opencv-240.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">OpenCV</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="./images/icons/icons8-unity-240.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Unity</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="./images/icons/icons8-blender-3d-240.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Blender</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="https://techstack-generator.vercel.app/django-icon.svg" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Django</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="https://techstack-generator.vercel.app/mysql-icon.svg" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">MySQL</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="https://techstack-generator.vercel.app/aws-icon.svg" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">AWS</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+        </td>
+    </tr>
 </table>
