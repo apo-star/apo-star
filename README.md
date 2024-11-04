@@ -1,44 +1,64 @@
-<div style="display: flex; flex-wrap: wrap; background-color: transparent;">
-    <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
-        <img src="./images/icons/icons8-c-programming-100.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">C</p>
-    </div>
-    <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
-        <img src="./images/icons/icons8-c++-100.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">C++</p>
-    </div>
-    <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
-        <img src="./images/icons/icons8-c-sharp-logo-100.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">C#</p>
-    </div>
-    <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
-        <img src="./images/icons/icons8-javascript-240.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Javascript</p>
-    </div>
-    <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
-        <img src="./images/icons/icons8-typescript-240.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Typescript</p>
-    </div>
-    <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
-        <img src="./images/icons/icons8-python-240.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Python</p>
-    </div>
-    <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
-        <img src="./images/icons/icons8-html-5-240.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">HTML</p>
-    </div>
-    <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
-        <img src="./images/icons/css.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">CSS</p>
-    </div>
-    <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
-        <img src="./images/icons/sass.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">SASS</p>
-    </div>
-    <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
-        <img src="./images/icons/tailwindcss.png" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">TailwindCSS</p>
-    </div>
+<table>
+    <tr>
+        <td>
+            <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
+                <img src="./images/icons/icons8-c-programming-100.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">C</p>
+            </div>
+        </td>
+        <td>
+            <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
+                <img src="./images/icons/icons8-c++-100.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">C++</p>
+            </div>
+        </td>
+        <td>
+            <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
+                <img src="./images/icons/icons8-c-sharp-logo-100.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">C#</p>
+            </div>
+        </td>
+        <td>
+            <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
+                <img src="./images/icons/icons8-javascript-240.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Javascript</p>
+            </div>
+        </td>
+        <td>
+            <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
+                <img src="./images/icons/icons8-typescript-240.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Typescript</p>
+            </div>
+        </td>
+        <td>
+            <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
+                <img src="./images/icons/icons8-python-240.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Python</p>
+            </div>
+        </td>
+        <td>
+            <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
+                <img src="./images/icons/icons8-html-5-240.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">HTML</p>
+            </div>
+        </td>
+            <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
+                <img src="./images/icons/css.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">CSS</p>
+            </div>
+        <td>
+            <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
+                <img src="./images/icons/sass.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">SASS</p>
+            </div>
+        </td>
+        <td>
+            <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
+                <img src="./images/icons/tailwindcss.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">TailwindCSS</p>
+            </div>
+        </td>
+    </tr>
     <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
         <img src="./images/icons/php-15.png" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">PHP</p>
@@ -95,4 +115,4 @@
         <img src="./images/icons/icons8-blender-3d-240.png" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Blender</p>
     </div>
-</div>
+</table>
