@@ -42,24 +42,26 @@
                 <p style="padding: 0; margin: 0;">HTML</p>
             </div>
         </td>
+        <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="./images/icons/css.png" style="width: 65px; height: 65px;" />
                 <p style="padding: 0; margin: 0;">CSS</p>
             </div>
+        </td>
         <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="https://techstack-generator.vercel.app/sass-icon.svg" style="width: 65px; height: 65px;" />
                 <p style="padding: 0; margin: 0;">SASS</p>
             </div>
         </td>
+    </tr>
+    <tr style="width: 100%;">
         <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="./images/icons/tailwindcss.png" style="width: 65px; height: 65px;" />
                 <p style="padding: 0; margin: 0;">TailwindCSS</p>
             </div>
         </td>
-    </tr>
-    <tr style="width: 100%;">
         <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="./images/icons/php-15.png" style="width: 65px; height: 65px;" />
@@ -108,14 +110,14 @@
                 <p style="padding: 0; margin: 0;">Angular</p>
             </div>
         </td>
+    </tr>
+    <tr style="width: 100%;">
         <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="./images/icons/icons8-next.js-240.png" style="width: 65px; height: 65px;" />
                 <p style="padding: 0; margin: 0;">Nextjs</p>
             </div>
         </td>
-    </tr>
-    <tr style="width: 100%;">
         <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="./images/icons/icons8-vite-240.png" style="width: 65px; height: 65px;" />
