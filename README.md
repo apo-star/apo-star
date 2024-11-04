@@ -1,42 +1,42 @@
 <table style="width: 100%;">
     <tr style="width: 100%;">
-        <td style="text-align: center;">
+        <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="./images/icons/icons8-c-programming-100.png" style="width: 65px; height: 65px;" />
                 <p style="padding: 0; margin: 0;">C</p>
             </div>
         </td>
-        <td style="text-align: center;">
+        <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="./images/icons/icons8-c++-100.png" style="width: 65px; height: 65px;" />
                 <p style="padding: 0; margin: 0;">C++</p>
             </div>
         </td>
-        <td style="text-align: center;">
+        <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="./images/icons/icons8-c-sharp-logo-100.png" style="width: 65px; height: 65px;" />
                 <p style="padding: 0; margin: 0;">C#</p>
             </div>
         </td>
-        <td style="text-align: center;">
+        <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="./images/icons/icons8-javascript-240.png" style="width: 65px; height: 65px;" />
                 <p style="padding: 0; margin: 0;">Javascript</p>
             </div>
         </td>
-        <td style="text-align: center;">
+        <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="./images/icons/icons8-typescript-240.png" style="width: 65px; height: 65px;" />
                 <p style="padding: 0; margin: 0;">Typescript</p>
             </div>
         </td>
-        <td style="text-align: center;">
+        <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="./images/icons/icons8-python-240.png" style="width: 65px; height: 65px;" />
                 <p style="padding: 0; margin: 0;">Python</p>
             </div>
         </td>
-        <td style="text-align: center;">
+        <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="./images/icons/icons8-html-5-240.png" style="width: 65px; height: 65px;" />
                 <p style="padding: 0; margin: 0;">HTML</p>
@@ -46,13 +46,13 @@
                 <img src="./images/icons/css.png" style="width: 65px; height: 65px;" />
                 <p style="padding: 0; margin: 0;">CSS</p>
             </div>
-        <td style="text-align: center;">
+        <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="./images/icons/sass.png" style="width: 65px; height: 65px;" />
                 <p style="padding: 0; margin: 0;">SASS</p>
             </div>
         </td>
-        <td style="text-align: center;">
+        <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="./images/icons/tailwindcss.png" style="width: 65px; height: 65px;" />
                 <p style="padding: 0; margin: 0;">TailwindCSS</p>
