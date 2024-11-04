@@ -132,8 +132,26 @@
         </td>
         <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="/images/icons/threejs.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Threejs</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="/images/icons/WebGL-Logo.wine.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">WebGL</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="./images/icons/icons8-opencv-240.png" style="width: 65px; height: 65px;" />
                 <p style="padding: 0; margin: 0;">OpenCV</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="https://techstack-generator.vercel.app/graphql-icon.svg" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">GraphQL</p>
             </div>
         </td>
         <td align="center" width="96">
@@ -148,6 +166,8 @@
                 <p style="padding: 0; margin: 0;">Blender</p>
             </div>
         </td>
+    </tr>
+    <tr style="width: 100%;">
         <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="https://techstack-generator.vercel.app/django-icon.svg" style="width: 65px; height: 65px;" />
@@ -162,8 +182,44 @@
         </td>
         <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="/images/icons/mongodb-logo-D13D67C930-seeklogo.com.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">MongoDB</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="https://techstack-generator.vercel.app/aws-icon.svg" style="width: 65px; height: 65px;" />
                 <p style="padding: 0; margin: 0;">AWS</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="/images/icons/shopify.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Shopify</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="/images/icons/sharetribe.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Share Tribe</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="/images/icons/free-blockchain-icon-download-in-svg-png-gif-file-formats--bitcoin-logo-technology-secure-pack-business-icons-411041.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Blockchain</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="/images/icons/web-30-3d-icon-download-in-png-blend-fbx-gltf-file-formats--3-0-internet-pack-network-communication-icons-9093276.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Web 3.0</p>
+            </div>
+        </td>
+        <td align="center" width="96">
+            <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+                <img src="/images/icons/icons8-android-os-100.png" style="width: 65px; height: 65px;" />
+                <p style="padding: 0; margin: 0;">Android</p>
             </div>
         </td>
     </tr>
