@@ -166,7 +166,5 @@
                 <p style="padding: 0; margin: 0;">AWS</p>
             </div>
         </td>
-        <td align="center" width="96">
-        </td>
     </tr>
 </table>
