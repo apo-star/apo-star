@@ -1,5 +1,5 @@
-<table>
-    <tr>
+<table style="width: 100%;">
+    <tr style="width: 100%;">
         <td>
             <div style="flex: 1 1 calc(100% / 9); background-color: transparent; border: 1px solid white; padding: 6px 13px; text-align: center; font-size: 16px;">
                 <img src="./images/icons/icons8-c-programming-100.png" style="width: 65px; height: 65px;" />
