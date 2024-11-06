@@ -1,12 +1,12 @@
 <img src="./images/header.gif" />
 
-## Robfu
-<table style="width: 100%;">
-    <tr style="width: 100%;">
-        <td width="40%">image</td> 
-        <td width="60%">description</td> 
-    </tr>
-</table>
+#### 👋 Hey there, web wanderer! I'm your digital craftsman 🧑‍💻, with 6 years of experience turning the web into a playground of pixels and code. I’m armed with 🛠️ React ⚛️, Next.js 🌐, Vue 🎨, and Angular 💥 — if it ends in .js, we’re probably besties.
+
+#### By day, I’m a TypeScript ninja 🥷, Laravel wizard 🧙, and PHP whisperer 🐘, spinning up everything from chic e-commerce empires on Shopify 🛍️ and WordPress 🌍 to jaw-dropping 3D wonderlands 🌌 with Three.js, React Three Fiber, and Babylon.js. It’s like “The Matrix” 🕶️, but with fewer existential crises and more online shopping 🛒.
+
+#### And when I’m not busy wrangling code? I’m conjuring 3D worlds 🌠, managing state smoother than butter 🧈 with Zustand 🧘, Valtio 🌀, and Redux 🧩, and riding the database waves 🌊 with MongoDB 📂. Backend magic? Check! ✅ Seamless user experiences? Double-check! ✅✅
+
+#### If you’re looking for a web experience as responsive as your favorite chat buddy 💬, with a splash of interactivity and a sprinkle of 3D ✨ — I’m your go-to dev!
 
 <table style="width: 100%;">
     <tr style="width: 100%;">
