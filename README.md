@@ -1,3 +1,4 @@
+<img src="./images/header.gif" />
 <table style="width: 100%;">
     <tr style="width: 100%;">
         <td align="center" width="96">
