@@ -11,6 +11,8 @@
 
 ![dracula][dracula]
 
+https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=dracula
+
 <table style="width: 100%;">
     <tr style="width: 100%;">
         <td align="center" width="96">
