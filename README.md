@@ -8,6 +8,9 @@
 
 #### If you’re looking for a web experience as responsive as your favorite chat buddy 💬, with a splash of interactivity and a sprinkle of 3D ✨ — I’m your go-to dev!
 
+
+![dracula][dracula]
+
 <table style="width: 100%;">
     <tr style="width: 100%;">
         <td align="center" width="96">
@@ -234,3 +237,6 @@
         </td>
     </tr>
 </table>
+
+
+[dracula]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula
